@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Hybrid_IO_Sync_API_IPaasProject
+  gitServerName: hybrid_io_sync_api_repo
+  gitUrl: https://github.com/bramhanayaghea/Hybrid_IO_Sync_API_IPaasProject
+  gitUsername: bramhanayaghea
+  gitBranch: main
