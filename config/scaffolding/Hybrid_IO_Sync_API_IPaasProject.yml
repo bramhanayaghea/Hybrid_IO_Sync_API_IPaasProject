@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/bramhanayaghea/Hybrid_IO_Sync_API_IPaasProject
   gitUsername: bramhanayaghea
   gitBranch: main
+- name: SupportPkg
+  gitServerName: insrsa_github
+  gitUrl: https://github.com/chini007
+  gitUsername: chini007
+  gitBranch: dev
